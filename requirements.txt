@@ -1,0 +1,6 @@
+pynput
+rich
+pygetwindow
+numpy
+keyboard
+psutil
